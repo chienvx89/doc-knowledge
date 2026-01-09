@@ -2,7 +2,7 @@
 
 ---
 
-<a id="sec-1-tieu-de"></a>
+
 ## 🎤 1 – Tiêu đề
 
 **GitHub Copilot**  
@@ -12,7 +12,7 @@
 
 ---
 
-<a id="sec-2-van-de"></a>
+
 ## 😵 2 – Vấn đề quen thuộc khi lập trình
 
 ### Nội dung
@@ -23,7 +23,7 @@
 
 ---
 
-<a id="sec-3-muc-tieu"></a>
+
 ## 🎯 3 – Mục tiêu buổi chia sẻ
 
 ### Nội dung
@@ -105,7 +105,6 @@
 
 ---
 
-<a id="sec-4-kinh-nghiem"></a>
 ## 💡 4 – Kinh nghiệm thực tế
 
 ### Nội dung
@@ -137,7 +136,7 @@
 
 ---
 
-<a id="sec-5-khai-niem"></a>
+
 ## 📚 5 – Các khái niệm hay ho
 
 ### Nội dung
@@ -154,7 +153,7 @@
 
 ---
 
-<a id="sec-ket-luan"></a>
+
 ## 🎯 Kết luận
 
 ### Nội dung
