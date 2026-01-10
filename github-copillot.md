@@ -3,7 +3,7 @@
 ---
 
 
-## 🎤 1 – Tiêu đề
+## 🎤 1 – Giới thiệu
 
 **GitHub Copilot**  
 **Pair Programmer cho DEV Team**
